@@ -19,7 +19,7 @@ import AboutUs from './components/AboutUs';
 import PrivacyPolicy from './components/PrivacyPolicy';
 import TermsConditions from './components/TermsConditions';
 import FAQ from './components/FAQ';
-import './App.css';
+import '../src/App.css';
 
 const App = () => {
   return (

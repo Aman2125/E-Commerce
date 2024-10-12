@@ -1,0 +1,15 @@
+.order-history-container {
+    padding: 20px;
+  }
+  
+  .order-list {
+    padding: 10px;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+  }
+  
+  .order-list p {
+    text-align: center;
+    color: #666;
+  }
+  

@@ -1,0 +1,15 @@
+.wishlist-container {
+    padding: 20px;
+  }
+  
+  .wishlist-items {
+    padding: 10px;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+  }
+  
+  .wishlist-items p {
+    text-align: center;
+    color: #666;
+  }
+  
